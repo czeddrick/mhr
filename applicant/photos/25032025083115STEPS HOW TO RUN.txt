@@ -1,0 +1,24 @@
+1. Download the file named "Microfinance Management Syste" 
+2. Extract the file.
+3. Inside the file there is a folder named "MHR"
+4. Copy and paste the folder "MHR" at the httdocs where your xampp is.
+5. Importy the database "job_portal" at the phpmyadmin. 
+- i named it like that cuz its more likely for job searching according to
+your introduction in docu.
+6. Go to your browser ( chrome etc. ) and type this 
+"localhost/MHR"
+
+
+Click on Login as admin! 
+
+ADMIN LOGIN 
+> Username : Admin
+> Password : admin
+
+
+USER LOGIN
+>Username : employee
+>Password : sample
+
+YOU CAN CREATE ALSO AN ACCOUNT AS APPLICANT WHERE YOU CAN APPLY JOBS
+BASE ON YOUR SKILLS AND QUALIFICATIONS.
